@@ -1,0 +1,6 @@
+DockerHub Image: https://hub.docker.com/repository/docker/jtjarnfors/socketchatdocker/general
+Push Command: docker push jtjarnfors/socketchatdocker:tagname
+
+AWS EC2: http://ec2-3-27-5-208.ap-southeast-2.compute.amazonaws.com/
+
+AWS Elastic Beanstalk: http://hello-express-env.eba-yxm2yfmr.ap-southeast-2.elasticbeanstalk.com/
